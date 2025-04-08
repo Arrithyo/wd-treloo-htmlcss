@@ -66,6 +66,16 @@ header {
     margin-top: 3rem;
 }
 
+.recommended .tab {
+    margin: 3rem;
+}
+
 .recommended .tab a {
     text-decoration: none;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.destination-container img {
+    margin: 20px;
 }
